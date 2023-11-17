@@ -1,0 +1,52 @@
+[       
+    {
+        "id": 1,
+        "nombre":"Arane",
+        "apellido":"Gomez"
+    },
+    {
+        "id": 2,
+        "nombre":"Urtzi",
+        "apellido":"Arrieta"
+    },
+    {
+        "id": 3,
+        "nombre":"Hodei",
+        "apellido":"Lavega"
+    },
+    {
+        "id": 4,
+        "nombre":"Jon",
+        "apellido":"Mendia"
+    },
+    {
+        "id": 5,
+        "nombre":"Maria",
+        "apellido":"Corral"
+    },
+    {
+        "id": 6,
+        "nombre":"Juliet",
+        "apellido":"Chavez"
+    },
+    {
+        "id": 7,
+        "nombre":"Ibai",
+        "apellido":"Cruz"
+    },
+    {
+        "id": 8,
+        "nombre":"Imanol",
+        "apellido":"Etxeberria"
+    },
+    {
+        "id": 9,
+        "nombre":"Jara",
+        "apellido":"Ayucar"
+    },
+    {
+        "id": 10,
+        "nombre":"Naroa",
+        "apellido":"Ayestaran"
+    }
+]
